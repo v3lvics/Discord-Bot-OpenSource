@@ -242,4 +242,4 @@ async def ping(ctx):
 # role grant = await.user.add_roles(role) / include *role* in ctx
 
 # BOT TOKEN DO NOT SHARE / BOT ABUSE RISK AND EXPLOIT
-bot.run('MTEyNjYyMDY1OTEwNDA5MjI4MQ.Gejplg.6SKboOBTed9jfBjjf1Fs4GNe5HkgJ-qCrg3sjI')
+bot.run('YourBotToken')
