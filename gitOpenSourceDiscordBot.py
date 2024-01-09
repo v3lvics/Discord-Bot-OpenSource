@@ -243,3 +243,4 @@ async def ping(ctx):
 
 # BOT TOKEN DO NOT SHARE / BOT ABUSE RISK AND EXPLOIT
 bot.run('YourBotToken')
+# y
